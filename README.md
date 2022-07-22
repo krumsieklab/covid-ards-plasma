@@ -19,6 +19,7 @@ Note that Figures 1 and 3 are manually created.
 | 4_figure4a.R                 | Generates Figure 4a                                                |
 | 5_figure_4b_5.R              | Generates Figures 4b and 5                                  |
 | custom_functions.R           | Internal functions, will be sourced by other scripts               |
+| testing_medication_effect.R           | Optional, estimates effect of medication on omics profiles of COVID-19 patients              |
 |||
 | **Folder**                   | **Description**                                                    |
 | input                        | Needs to contain omics and clinical data (see below)               |
