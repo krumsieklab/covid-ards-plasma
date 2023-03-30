@@ -2,7 +2,7 @@
 
 # Multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS
 
-This repository contains scripts for analysis and figure generation of the paper<br/> **Batra\*, Whalen\* et. al.** Multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS(2022), *Medrxiv*.
+This repository contains scripts for analysis and figure generation of the paper<br/> **Batra\*, Whalen\* et. al.** Multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS(2022), *PLOS Pathogens*. [link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010819)
 
 # Content
 
@@ -41,8 +41,8 @@ The input data used in this manuscript can be obtained from: https://doi.org/10.
 
     @article{batra_2022,
       author = {Batra Richa, Whalen William, Alvarez-Mulett Sergio, Gómez-Escobar Luis G., Hoffman Katherine L., Simmons Will, Harrington John, Chetnik Kelsey, Buyukozkan Mustafa, Benedetti Elisa, Choi Mary E., Suhre Karsten, Schmidt Frank, Schenck Edward, Choi  Augustine M.K., Cho Soo Jung, Krumsiek Jan},
-      doi = {},
+      doi = {https://doi.org/10.1371/journal.ppat.1010819},
       title = {{Multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS}},
-      url = {},
+      url = {https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010819},
       year = {2022}
     }
